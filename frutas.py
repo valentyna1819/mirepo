@@ -4,4 +4,5 @@ print("Banano")
 print("Manzana")
 print("Uva")
 print("Mandarina")
-
+print("Guanabana")
+print("Lulo")
