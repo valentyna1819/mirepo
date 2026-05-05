@@ -8,3 +8,6 @@ print("Guanabana")
 print("Lulo")
 print("Mango")
 print("Maracuya")
+print("Fresas")
+print("Tamarindo")
+
