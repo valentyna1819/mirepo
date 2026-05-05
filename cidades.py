@@ -1,6 +1,6 @@
 #Programa para imprimir ciudades de colombia 
 
-print("Arauca")
+print("Pasto")
 print("Cali")
 print("Medellín")
 print("Bogotá")
